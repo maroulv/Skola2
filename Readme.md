@@ -1,0 +1,1 @@
+# Pirmais git projekts
